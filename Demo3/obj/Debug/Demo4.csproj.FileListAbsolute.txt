@@ -1,0 +1,6 @@
+C:\GitHub\TeachingCompetition\Demo3\bin\Debug\Demo3.exe.config
+C:\GitHub\TeachingCompetition\Demo3\bin\Debug\Demo3.exe
+C:\GitHub\TeachingCompetition\Demo3\bin\Debug\Demo3.pdb
+C:\GitHub\TeachingCompetition\Demo3\obj\Debug\Demo4.csprojResolveAssemblyReference.cache
+C:\GitHub\TeachingCompetition\Demo3\obj\Debug\Demo3.exe
+C:\GitHub\TeachingCompetition\Demo3\obj\Debug\Demo3.pdb
