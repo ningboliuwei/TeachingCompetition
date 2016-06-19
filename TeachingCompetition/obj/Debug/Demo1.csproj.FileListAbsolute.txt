@@ -1,0 +1,6 @@
+C:\GitHub\TeachingCompetition\TeachingCompetition\bin\Debug\TeachingCompetition.exe.config
+C:\GitHub\TeachingCompetition\TeachingCompetition\bin\Debug\TeachingCompetition.exe
+C:\GitHub\TeachingCompetition\TeachingCompetition\bin\Debug\TeachingCompetition.pdb
+C:\GitHub\TeachingCompetition\TeachingCompetition\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+C:\GitHub\TeachingCompetition\TeachingCompetition\obj\Debug\TeachingCompetition.exe
+C:\GitHub\TeachingCompetition\TeachingCompetition\obj\Debug\TeachingCompetition.pdb
